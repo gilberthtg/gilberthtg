@@ -21,19 +21,11 @@ Dive into some of my enchanted projects and see the magic for yourself:
 2. **[SpellBook](https://github.com/gilberthtg/spellbook)** - An AI-powered tool that predicts the future (of your data).
 3. **[Code Cauldron](https://github.com/gilberthtg/code-cauldron)** - A bubbling pot of code snippets and utilities for every developer's toolbox.
 
-## 📚 My Arcane Knowledge
-
-I love to share my wisdom with the community. Check out some of my writings and talks:
-
-- **[Blog](https://gilberthtg.medium.com)** - My musings on technology, coding tips, and more.
-- **[YouTube Channel](https://youtube.com/gilberthtg)** - Tutorials, talks, and live coding sessions.
-- **[Twitter](https://twitter.com/gilberthtg)** - Follow me for daily magic spells (and tech updates).
-
 ## 🧙‍♂️ How to Summon Me
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech (or magic):
 
-- **Email:** [gilberthtg@example.com](mailto:gilberthtg@example.com)
+- **Email:** [gilberthtg@example.com](mailto:gilbertutagalung25@gmail.co.id)
 - **LinkedIn:** [Gilberth TG](https://linkedin.com/in/gilberthtg)
 - **GitHub:** [gilberthtg](https://github.com/gilberthtg)
 
