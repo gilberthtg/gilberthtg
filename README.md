@@ -1,4 +1,4 @@
-# Gilbert Hutagalung- The Code Alchemist 🧙‍♂️✨
+# Gilbert Hutagalung - The Code Alchemist 🧙‍♂️✨
 
 ![Header Image](profile.jpg)
 
