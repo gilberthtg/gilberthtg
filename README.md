@@ -33,8 +33,8 @@ I love to share my wisdom with the community. Check out some of my writings and 
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to chat about tech (or magic):
 
-- **Email:** [gilberthtg@example.com](mailto:gilbertutagalung25@gmail.co.id)
-- **LinkedIn:** [Gilberth TG](https://linkedin.com/in/gilberthtg)
+- **Email:** [gilbertutagalung25@gmail.co.id](mailto:gilbertutagalung25@gmail.co.id)
+- **LinkedIn:** [Gilberth Hutagalung](https://linkedin.com/in/gilberthtg)
 - **GitHub:** [gilberthtg](https://github.com/gilberthtg)
 
 ---
