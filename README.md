@@ -1,12 +1,11 @@
 # Gilbert Hutagalung - The Code Alchemist 🧙‍♂️✨
-
-![Header Image](profile.jpg)
+<img src="profile.jpg" alt="Header Image" width="200">
 
 **Welcome to my magical corner of GitHub!** Here, code and creativity blend to conjure amazing projects and innovative solutions. 
 
 ## 🧑‍💻 About Me
 
-Greetings! I'm **Gilberth TG**, a passionate developer with a knack for turning ideas into reality with the power of code. When I'm not casting spells with my keyboard, you can find me exploring the latest tech trends or sharing my knowledge with fellow wizards in the community.
+Greetings! I'm **Gilberth**, a passionate developer with a knack for turning ideas into reality with the power of code. When I'm not casting spells with my keyboard, you can find me exploring the latest tech trends or sharing my knowledge with fellow wizards in the community.
 
 - **Location:** A realm where code meets creativity
 - **Interests:** Coding, Open Source, AI, Data Science, and more
