@@ -1,5 +1,5 @@
 # Gilbert Hutagalung - The Code Alchemist 🧙‍♂️✨
-<img src="profile.jpg" alt="Header Image" width="200">
+<!-- <img src="profile.jpg" alt="Header Image" width="200"> -->
 
 **Welcome to my magical corner of GitHub!** Here, code and creativity blend to conjure amazing projects and innovative solutions. 
 
